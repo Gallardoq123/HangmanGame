@@ -1,2 +1,2 @@
 # HangmanGame
-Reto 5 de cla clase programacion orientada a objetos
+Reto 5 de la clase programacion orientada a objetos
